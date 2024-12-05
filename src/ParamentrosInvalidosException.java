@@ -1,3 +1,3 @@
-public class ParamentrosInvalidosException {
+public class ParamentrosInvalidosException extends Exception {
 
 }
